@@ -1,0 +1,9 @@
+{
+    "name": "sumAll",
+    "args": [{
+        "isArray": true,
+        "type": "array",
+        "name": "items"
+    }],
+    "output": ["int"]
+}

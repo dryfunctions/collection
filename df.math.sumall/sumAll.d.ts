@@ -1,0 +1,1 @@
+export function sumAll(a: number[]): number;

@@ -1,0 +1,16 @@
+{
+  "name": "cf.finance.sumall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "cflib": "file:../../cflib",
+    "@types/cflib": "file:../../cflib-types"
+  },
+  "author": "",
+  "license": "ISC"
+}
